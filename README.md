@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Chronic token is a ERC-20 token on the Ethereum blockchain. 
 <!--
 **ChronicToken/ChronicToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
